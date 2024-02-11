@@ -161,9 +161,21 @@
     },
     "done": true
   },
+  "mekanism:elite_control_circuit": {
+    "criteria": {
+      "elite_control_circuit": "2024-02-11 18:52:55 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_red_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "mekanism:cleaning_gauges": {
+    "criteria": {
+      "use_dropper": "2024-02-11 19:00:53 +0800"
     },
     "done": true
   },
@@ -341,6 +353,12 @@
     },
     "done": true
   },
+  "mekanism:reinforced_alloy": {
+    "criteria": {
+      "alloy_reinforced": "2024-02-11 18:00:54 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -473,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-02-11 21:49:48 +0800"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -548,6 +572,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2024-02-09 22:02:10 +0800"
+    },
+    "done": true
+  },
+  "mekanism:chemical_transport": {
+    "criteria": {
+      "basic_pressurized_tube": "2024-02-11 18:58:39 +0800"
     },
     "done": true
   },
@@ -928,6 +958,12 @@
   "mekanism:alloy_upgrading": {
     "criteria": {
       "upgrade": "2024-02-10 23:45:17 +0800"
+    },
+    "done": true
+  },
+  "mekanism:injection_chamber": {
+    "criteria": {
+      "chemical_injection_chamber": "2024-02-11 18:54:56 +0800"
     },
     "done": true
   },
