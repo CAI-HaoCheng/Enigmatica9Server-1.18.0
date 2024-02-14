@@ -80,6 +80,12 @@
     },
     "done": true
   },
+  "starbunclemania:star_battery": {
+    "criteria": {
+      "has_star_battery": "2024-02-14 21:02:11 +0800"
+    },
+    "done": true
+  },
   "naturescompass:natures_compass": {
     "criteria": {
       "has_recipe": "2024-02-09 22:09:33 +0800"
@@ -253,9 +259,16 @@
     "criteria": {
       "cooked_porkchop": "2024-02-11 17:43:15 +0800",
       "cooked_beef": "2024-02-13 20:14:48 +0800",
-      "apple": "2024-02-09 22:18:03 +0800"
+      "apple": "2024-02-09 22:18:03 +0800",
+      "cooked_chicken": "2024-02-14 20:03:54 +0800"
     },
     "done": false
+  },
+  "ars_nouveau:apprentice_spell_book": {
+    "criteria": {
+      "has_apprentice_spell_book": "2024-02-14 22:05:47 +0800"
+    },
+    "done": true
   },
   "mekanism:infusing_efficiency": {
     "criteria": {
@@ -335,6 +348,12 @@
     },
     "done": true
   },
+  "ars_nouveau:magebloom_crop": {
+    "criteria": {
+      "has_magebloom_crop": "2024-02-14 19:49:41 +0800"
+    },
+    "done": true
+  },
   "idas:idas_root": {
     "criteria": {
       "always": "2024-02-09 22:09:34 +0800"
@@ -359,9 +378,21 @@
     },
     "done": true
   },
+  "starbunclemania:star_bin": {
+    "criteria": {
+      "has_star_bin": "2024-02-14 19:59:12 +0800"
+    },
+    "done": true
+  },
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2024-02-11 00:01:03 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:altar": {
+    "criteria": {
+      "book": "2024-02-14 21:48:48 +0800"
     },
     "done": true
   },
@@ -377,6 +408,12 @@
     },
     "done": true
   },
+  "ars_nouveau:starby_charm": {
+    "criteria": {
+      "has_starbuncle_charm": "2024-02-14 19:52:41 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2024-02-09 22:15:16 +0800"
@@ -386,6 +423,12 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2024-02-09 23:08:29 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_diffuser": {
+    "criteria": {
+      "has_potion_diffuser": "2024-02-14 20:51:44 +0800"
     },
     "done": true
   },
@@ -504,6 +547,12 @@
     },
     "done": false
   },
+  "ars_nouveau:ritual_brazier": {
+    "criteria": {
+      "has_ritual_brazier": "2024-02-14 20:10:00 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 22:09:33 +0800"
@@ -609,6 +658,12 @@
     },
     "done": true
   },
+  "starbunclemania:star_bucket": {
+    "criteria": {
+      "has_star_bucket": "2024-02-14 21:01:24 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_orange_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 22:09:33 +0800"
@@ -618,6 +673,12 @@
   "pneumaticcraft:pressure_tube": {
     "criteria": {
       "0": "2024-02-10 20:24:29 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2024-02-14 22:25:35 +0800"
     },
     "done": true
   },
@@ -651,6 +712,12 @@
     },
     "done": true
   },
+  "ars_nouveau:wixie_charm": {
+    "criteria": {
+      "has_wixie_charm": "2024-02-14 20:36:36 +0800"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2024-02-10 20:24:24 +0800"
@@ -666,6 +733,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-02-09 22:15:27 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:wood_stand": {
+    "criteria": {
+      "stand": "2024-02-14 21:15:03 +0800"
     },
     "done": true
   },
@@ -735,6 +808,7 @@
       "cabbage": "2024-02-09 23:04:07 +0800",
       "tomato": "2024-02-09 23:08:16 +0800",
       "kelp": "2024-02-13 22:48:09 +0800",
+      "sugar_cane": "2024-02-14 20:46:54 +0800",
       "potato": "2024-02-09 23:25:13 +0800",
       "wheat": "2024-02-09 22:21:55 +0800"
     },
@@ -990,6 +1064,12 @@
     },
     "done": true
   },
+  "restrictedportals:end": {
+    "criteria": {
+      "end": "2024-02-14 20:52:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-02-09 22:31:26 +0800"
@@ -1077,6 +1157,12 @@
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2024-02-10 22:42:52 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:alteration_table": {
+    "criteria": {
+      "has_alteration_table": "2024-02-14 21:16:10 +0800"
     },
     "done": true
   },

@@ -453,6 +453,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-02-14 21:12:24 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:57:03 +0800"
@@ -504,6 +510,12 @@
   "apotheosis:affix/random": {
     "criteria": {
       "sword": "2024-02-09 22:22:38 +0800"
+    },
+    "done": true
+  },
+  "pneumaticcraft:printed_circuit_board": {
+    "criteria": {
+      "0": "2024-02-14 21:24:10 +0800"
     },
     "done": true
   },
@@ -795,6 +807,12 @@
     },
     "done": true
   },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2024-02-14 21:41:11 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 22:01:25 +0800"
@@ -891,6 +909,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:empty_pcb": {
+    "criteria": {
+      "0": "2024-02-14 22:58:02 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_purple_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:57:03 +0800"
@@ -957,6 +981,12 @@
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:57:03 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_metalpress": {
+    "criteria": {
+      "form_multiblock": "2024-02-14 21:45:21 +0800"
     },
     "done": true
   },
@@ -1152,6 +1182,12 @@
     },
     "done": false
   },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:magma_wastes": "2024-02-14 21:11:08 +0800"
+    },
+    "done": false
+  },
   "comforts:hammock_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:57:03 +0800"
@@ -1207,6 +1243,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:amadron_tablet": {
+    "criteria": {
+      "0": "2024-02-14 21:38:45 +0800"
+    },
+    "done": true
+  },
   "immersiveengineering:main/craft_hammer": {
     "criteria": {
       "has_item": "2024-02-09 23:37:10 +0800"
@@ -1224,6 +1266,12 @@
       "give_recipe": "2024-02-09 23:56:40 +0800"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2024-02-14 21:11:27 +0800"
+    },
+    "done": false
   },
   "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
     "criteria": {
@@ -1276,6 +1324,12 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 22:01:25 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2024-02-14 21:43:25 +0800"
     },
     "done": true
   },
