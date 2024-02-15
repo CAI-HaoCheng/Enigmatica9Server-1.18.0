@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "naturesaura:root": {
+    "criteria": {
+      "book": "2024-02-15 22:40:56 +0800"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-02-14 19:12:45 +0800"
@@ -152,6 +158,12 @@
   "ae2:main/root": {
     "criteria": {
       "copper": "2024-02-09 23:09:11 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:get_book": {
+    "criteria": {
+      "book": "2024-02-15 22:40:56 +0800"
     },
     "done": true
   },
@@ -275,6 +287,12 @@
     },
     "done": true
   },
+  "naturesaura:eye": {
+    "criteria": {
+      "eye": "2024-02-15 20:43:15 +0800"
+    },
+    "done": true
+  },
   "mekanism:energy_transport": {
     "criteria": {
       "basic_universal_cable": "2024-02-10 22:08:33 +0800"
@@ -347,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2024-02-15 21:19:14 +0800"
+    },
+    "done": false
+  },
   "mekanism:chemical_transport": {
     "criteria": {
       "basic_pressurized_tube": "2024-02-11 18:58:39 +0800"
@@ -368,6 +392,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2024-02-09 22:54:32 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:aura_bottle_nether": {
+    "criteria": {
+      "bottle": "2024-02-15 21:13:51 +0800"
     },
     "done": true
   },
@@ -625,6 +655,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2024-02-15 21:23:43 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 23:26:52 +0800"
@@ -673,6 +709,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "winter_wolf": "2024-02-15 21:25:40 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -705,6 +747,7 @@
   },
   "farmersdelight:main/master_chef": {
     "criteria": {
+      "honey_glazed_ham": "2024-02-15 22:27:56 +0800",
       "roasted_mutton_chops": "2024-02-14 21:40:43 +0800"
     },
     "done": false
@@ -797,6 +840,12 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2024-02-15 20:35:18 +0800"
     },
     "done": true
   },
@@ -987,6 +1036,12 @@
     },
     "done": true
   },
+  "naturesaura:offering": {
+    "criteria": {
+      "table": "2024-02-15 22:30:03 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -1068,7 +1123,9 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:white_mangrove_marshes": "2024-02-09 23:27:29 +0800",
-      "byg:zelkova_forest": "2024-02-09 23:27:12 +0800"
+      "byg:magma_wastes": "2024-02-15 21:54:27 +0800",
+      "byg:zelkova_forest": "2024-02-09 23:27:12 +0800",
+      "byg:brimstone_caverns": "2024-02-15 21:54:08 +0800"
     },
     "done": false
   },
@@ -1156,11 +1213,23 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-02-15 20:30:25 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
     },
     "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2024-02-15 21:54:38 +0800"
+    },
+    "done": false
   },
   "mekanism:enricher": {
     "criteria": {
@@ -1237,6 +1306,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 23:26:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-02-15 21:19:14 +0800"
     },
     "done": true
   },
