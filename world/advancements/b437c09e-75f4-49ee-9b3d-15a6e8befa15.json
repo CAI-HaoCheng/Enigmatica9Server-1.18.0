@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "byg:husbandry/just_like_grandmas": {
+    "criteria": {
+      "green_apple_pie": "2024-02-18 18:32:43 +0800"
+    },
+    "done": true
+  },
   "create:contraption_actors": {
     "criteria": {
       "0": "2024-02-14 22:25:34 +0800"
@@ -428,6 +434,12 @@
   "apotheosis:affix/epic": {
     "criteria": {
       "sword": "2024-02-10 20:46:07 +0800"
+    },
+    "done": true
+  },
+  "mekanism:polonium": {
+    "criteria": {
+      "pellet_polonium": "2024-02-18 21:50:52 +0800"
     },
     "done": true
   },
@@ -601,6 +613,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2024-02-18 21:24:23 +0800"
+    },
+    "done": true
+  },
   "mekanism:alloy_upgrading": {
     "criteria": {
       "upgrade": "2024-02-10 23:45:17 +0800"
@@ -715,6 +733,14 @@
     },
     "done": true
   },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2024-02-18 13:26:16 +0800",
+      "chemical_crystallizer": "2024-02-18 13:34:13 +0800",
+      "chemical_washer": "2024-02-18 13:27:40 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_blue": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -739,16 +765,29 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2024-02-18 21:49:27 +0800"
+    },
+    "done": true
+  },
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2024-02-09 21:51:21 +0800"
     },
     "done": true
   },
+  "the_bumblezone:the_bumblezone/teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2024-02-18 15:09:03 +0800"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "honey_glazed_ham": "2024-02-15 22:27:56 +0800",
-      "roasted_mutton_chops": "2024-02-14 21:40:43 +0800"
+      "roasted_mutton_chops": "2024-02-14 21:40:43 +0800",
+      "grilled_salmon": "2024-02-18 18:05:50 +0800"
     },
     "done": false
   },
@@ -816,6 +855,12 @@
   "mekanism:cleaning_gauges": {
     "criteria": {
       "use_dropper": "2024-02-11 19:00:53 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:negative_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-02-18 14:01:17 +0800"
     },
     "done": true
   },
@@ -952,6 +997,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2024-02-18 21:24:28 +0800"
+    },
+    "done": true
+  },
   "apotheosis:affix/gem": {
     "criteria": {
       "gem": "2024-02-09 22:55:38 +0800"
@@ -1042,6 +1093,12 @@
     },
     "done": true
   },
+  "mekanism:ultimate_control_circuit": {
+    "criteria": {
+      "ultimate_control_circuit": "2024-02-18 13:26:09 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_light_blue": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -1069,6 +1126,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2024-02-09 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-02-18 14:24:07 +0800"
     },
     "done": true
   },
@@ -1123,8 +1186,10 @@
   "byg:adventure/oh_the_biomes_youll_go": {
     "criteria": {
       "byg:white_mangrove_marshes": "2024-02-09 23:27:29 +0800",
+      "byg:weeping_witch_forest": "2024-02-18 18:07:52 +0800",
       "byg:magma_wastes": "2024-02-15 21:54:27 +0800",
       "byg:zelkova_forest": "2024-02-09 23:27:12 +0800",
+      "byg:autumnal_valley": "2024-02-18 15:26:38 +0800",
       "byg:brimstone_caverns": "2024-02-15 21:54:08 +0800"
     },
     "done": false
@@ -1155,6 +1220,7 @@
       "minecraft:dripstone_caves": "2024-02-09 23:14:15 +0800",
       "minecraft:snowy_taiga": "2024-02-10 23:34:22 +0800",
       "minecraft:forest": "2024-02-09 21:54:27 +0800",
+      "minecraft:old_growth_spruce_taiga": "2024-02-18 18:10:09 +0800",
       "minecraft:plains": "2024-02-09 21:56:04 +0800"
     },
     "done": false
@@ -1204,6 +1270,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 23:26:51 +0800"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-02-18 20:51:23 +0800"
     },
     "done": true
   },
