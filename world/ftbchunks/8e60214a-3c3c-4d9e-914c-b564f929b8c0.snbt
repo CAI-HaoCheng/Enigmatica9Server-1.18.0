@@ -1,7 +1,7 @@
 {
 	max_claim_chunks: 500
 	max_force_load_chunks: 25
-	last_login_time: 1708348869773L
+	last_login_time: 1708438128693L
 	chunks: {
 		"minecraft:overworld": [
 			{ x: 15, z: -1, time: 1707578990295L, force_loaded: 1707578991770L }
