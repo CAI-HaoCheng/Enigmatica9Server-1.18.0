@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2024-02-21 21:55:00 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -223,7 +229,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2024-02-09 21:56:18 +0800"
+      "apple": "2024-02-09 21:56:18 +0800",
+      "bread": "2024-02-21 21:48:23 +0800"
     },
     "done": false
   },

@@ -273,6 +273,12 @@
     },
     "done": true
   },
+  "immersiveengineering:tools/craft_buzzsaw": {
+    "criteria": {
+      "has_item": "2024-02-21 22:40:10 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-10 21:17:55 +0800"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/villager": {
+    "criteria": {
+      "meet_gunsmith": "2024-02-21 22:48:40 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_red": {
     "criteria": {
       "has_the_recipe": "2024-02-09 22:09:33 +0800"
@@ -512,6 +524,12 @@
   "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-11 21:46:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-02-21 21:55:40 +0800"
     },
     "done": true
   },
