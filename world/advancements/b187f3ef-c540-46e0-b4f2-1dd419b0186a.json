@@ -648,6 +648,12 @@
     },
     "done": true
   },
+  "ars_elemental:firenando_charm": {
+    "criteria": {
+      "has_firenando_charm": "2024-02-24 00:09:59 +0800"
+    },
+    "done": true
+  },
   "comforts:hammock_black_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 22:09:33 +0800"
@@ -1270,6 +1276,12 @@
   "comforts:hammock_light_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 22:09:33 +0800"
+    },
+    "done": true
+  },
+  "ars_elemental:siren_charm": {
+    "criteria": {
+      "has_siren_charm": "2024-02-24 00:39:56 +0800"
     },
     "done": true
   },
