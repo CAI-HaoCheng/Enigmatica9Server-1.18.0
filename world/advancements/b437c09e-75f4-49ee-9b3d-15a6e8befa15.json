@@ -102,6 +102,12 @@
     },
     "done": true
   },
+  "quark:watcher_center": {
+    "criteria": {
+      "watcher_center": "2024-02-24 21:42:45 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 23:26:51 +0800"
@@ -1108,6 +1114,12 @@
     },
     "done": true
   },
+  "compactmachines:got_shrinking_device": {
+    "criteria": {
+      "obtained_psd": "2024-02-24 22:22:29 +0800"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
@@ -1195,6 +1207,12 @@
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:wilden_explosion": {
+    "criteria": {
+      "wilden_explosion": "2024-02-24 22:18:13 +0800"
     },
     "done": true
   },
@@ -1368,6 +1386,12 @@
   "byg:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-02-09 21:56:18 +0800"
+    },
+    "done": true
+  },
+  "compactmachines:foundations": {
+    "criteria": {
+      "obtained_wall": "2024-02-24 22:22:00 +0800"
     },
     "done": true
   },
@@ -1596,6 +1620,12 @@
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2024-02-09 21:51:21 +0800"
+    },
+    "done": true
+  },
+  "compactmachines:claimed_machine_giant": {
+    "criteria": {
+      "claimed_machine": "2024-02-24 22:22:48 +0800"
     },
     "done": true
   },
