@@ -126,6 +126,7 @@ ServerEvents.recipes((event) => {
         { id: 'createaddition:compat/immersiveengineering/crushing/steel_ingot' },
         { id: 'createaddition:compat/immersiveengineering/constantan' },
         { id: 'createaddition:compat/immersiveengineering/electrum' },
+        { id: 'createaddition:mixing/electrum' },
         { id: 'createaddition:crushing/diamond' },
 
         { id: /emendatusenigmatica:plate\/from_ingot/ },
@@ -452,7 +453,6 @@ ServerEvents.recipes((event) => {
         { id: 'powah:crafting/binding_card' },
         { id: 'powah:crafting/aerial_pearl' },
         { id: 'powah:crafting/energizing_orb' },
-        { id: 'powah:crafting/energizing_rod_basic' },
         { id: 'powah:energizing/ender_core' },
         { id: 'powah:energizing/blazing_crystal' },
         { id: 'powah:energizing/spirited_crystal' },
@@ -464,6 +464,7 @@ ServerEvents.recipes((event) => {
             id: /powah:crafting\/(thermo_generator|solar_panel|furnator|magmator|reactor|energy|cable|battery|ender)/
         },
         { id: /powah:crafting\/(energizing_rod_|player_transmitter_|capacitor_)(blazing|hardened)/ },
+        { id: /powah:crafting\/energizing_rod_(basic|spirited|nitro)/ },
 
         { id: /quark:.*rainbow_rune/ },
         { id: 'quark:building/smelting/moss_paste' },
@@ -482,6 +483,9 @@ ServerEvents.recipes((event) => {
         { id: 'sophisticatedstorage:basic_to_netherite_tier_upgrade' },
         { id: 'sophisticatedstorage:basic_to_diamond_tier_upgrade' },
         { id: 'sophisticatedstorage:basic_to_gold_tier_upgrade' },
+
+        { id: 'simplemagnets:basicmagnet' },
+        { id: 'simplemagnets:advancedmagnet' },
 
         { id: 'simplytools:diamond_hammer_head' },
         { id: 'simplytools:diamond_hammer' },

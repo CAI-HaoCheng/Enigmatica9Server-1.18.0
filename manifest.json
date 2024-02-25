@@ -1,6 +1,6 @@
 {
     "manifestType":  "minecraftModpack",
-    "version":  "1.18.0",
+    "version":  "1.19.0",
     "files":  [
                   {
                       "projectID":  689238,
@@ -34,8 +34,8 @@
                   },
                   {
                       "projectID":  495509,
-                      "fileID":  4523732,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4523/732/spirit-forge-1.19.2-2.2.6.jar",
+                      "fileID":  5057018,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5057/18/spirit-forge-1.19.2-2.2.7.jar",
                       "required":  true
                   },
                   {
@@ -58,8 +58,8 @@
                   },
                   {
                       "projectID":  618298,
-                      "fileID":  4993648,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4993/648/sophisticatedcore-1.19.2-0.5.111.525.jar",
+                      "fileID":  5102974,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5102/974/sophisticatedcore-1.19.2-0.6.2.552.jar",
                       "required":  true
                   },
                   {
@@ -106,8 +106,8 @@
                   },
                   {
                       "projectID":  416294,
-                      "fileID":  4805925,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4805/925/rhino-forge-1902.2.2-build.280.jar",
+                      "fileID":  4953345,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4953/345/rhino-forge-1902.2.3-build.284.jar",
                       "required":  true
                   },
                   {
@@ -142,8 +142,8 @@
                   },
                   {
                       "projectID":  399630,
-                      "fileID":  4551000,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4551/0/EmendatusEnigmatica-2.1.5-build.61+mc1.19.2.jar",
+                      "fileID":  5015698,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5015/698/EmendatusEnigmatica-2.1.6-build.63%2bmc1.19.2.jar",
                       "required":  true
                   },
                   {
@@ -160,8 +160,8 @@
                   },
                   {
                       "projectID":  454372,
-                      "fileID":  4926970,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4926/970/supermartijn642corelib-1.1.16-forge-mc1.19.2.jar",
+                      "fileID":  5102255,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5102/255/supermartijn642corelib-1.1.17-forge-mc1.19.2.jar",
                       "required":  true
                   },
                   {
@@ -292,14 +292,14 @@
                   },
                   {
                       "projectID":  439890,
-                      "fileID":  4929703,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4929/703/createaddition-1.19.2-1.2.1.jar",
+                      "fileID":  5099757,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5099/757/createaddition-1.19.2-1.2.3.jar",
                       "required":  true
                   },
                   {
                       "projectID":  238222,
-                      "fileID":  4712866,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4712/866/jei-1.19.2-forge-11.6.0.1018.jar",
+                      "fileID":  5106178,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5106/178/jei-1.19.2-forge-11.6.0.1019.jar",
                       "required":  true
                   },
                   {
@@ -310,8 +310,8 @@
                   },
                   {
                       "projectID":  281849,
-                      "fileID":  4994001,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4994/1/pneumaticcraft-repressurized-1.19.2-4.3.13-47.jar",
+                      "fileID":  5016921,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5016/921/pneumaticcraft-repressurized-1.19.2-4.3.14-49.jar",
                       "required":  true
                   },
                   {
@@ -352,8 +352,8 @@
                   },
                   {
                       "projectID":  580555,
-                      "fileID":  5011026,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/5011/26/emi-1.0.30%2b1.19.2%2bforge.jar",
+                      "fileID":  5118184,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5118/184/emi-1.1.2%2b1.19.2%2bforge.jar",
                       "required":  true
                   },
                   {
@@ -394,14 +394,20 @@
                   },
                   {
                       "projectID":  326652,
-                      "fileID":  4795347,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4795/347/cupboard-1.19.2-2.1.jar",
+                      "fileID":  5063778,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5063/778/cupboard-1.19.2-2.3.jar",
+                      "required":  true
+                  },
+                  {
+                      "projectID":  394140,
+                      "fileID":  4794184,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/4794/184/simplemagnets-1.1.10-forge-mc1.19.jar",
                       "required":  true
                   },
                   {
                       "projectID":  309927,
-                      "fileID":  4985476,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4985/476/curios-forge-1.19.2-5.1.4.4.jar",
+                      "fileID":  5066842,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5066/842/curios-forge-1.19.2-5.1.6.1.jar",
                       "required":  true
                   },
                   {
@@ -472,8 +478,8 @@
                   },
                   {
                       "projectID":  362479,
-                      "fileID":  4992381,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4992/381/the_bumblezone_forge-6.8.6%2b1.19.2.jar",
+                      "fileID":  5103298,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5103/298/the_bumblezone_forge-6.9.7%2b1.19.2.jar",
                       "required":  true
                   },
                   {
@@ -616,8 +622,8 @@
                   },
                   {
                       "projectID":  450659,
-                      "fileID":  4575301,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4575/301/smallships-forge-1.19.2-2.0.0-a2.3.jar",
+                      "fileID":  5069368,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5069/368/smallships-2.0.0-b1.0.jar",
                       "required":  true
                   },
                   {
@@ -688,14 +694,14 @@
                   },
                   {
                       "projectID":  283644,
-                      "fileID":  4876369,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4876/369/Placebo-1.19.2-7.3.4.jar",
+                      "fileID":  5086263,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5086/263/Placebo-1.19.2-7.3.5.jar",
                       "required":  true
                   },
                   {
                       "projectID":  247560,
-                      "fileID":  4841635,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4841/635/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.6.jar",
+                      "fileID":  5116293,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5116/293/Oh_The_Biomes_You%27ll_Go-forge-1.19.2-2.0.1.6.jar",
                       "required":  true
                   },
                   {
@@ -706,8 +712,8 @@
                   },
                   {
                       "projectID":  422301,
-                      "fileID":  4993658,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4993/658/sophisticatedbackpacks-1.19.2-3.19.5.989.jar",
+                      "fileID":  5102999,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5102/999/sophisticatedbackpacks-1.19.2-3.20.1.1013.jar",
                       "required":  true
                   },
                   {
@@ -790,8 +796,8 @@
                   },
                   {
                       "projectID":  666198,
-                      "fileID":  4758789,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4758/789/morejs-forge-1.19.2-0.2.1.jar",
+                      "fileID":  5080707,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5080/707/morejs-forge-1.19.2-0.3.0.jar",
                       "required":  true
                   },
                   {
@@ -814,8 +820,8 @@
                   },
                   {
                       "projectID":  419699,
-                      "fileID":  4555749,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4555/749/architectury-6.5.85-forge.jar",
+                      "fileID":  5084406,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5084/406/architectury-6.5.90-forge.jar",
                       "required":  true
                   },
                   {
@@ -850,8 +856,8 @@
                   },
                   {
                       "projectID":  360203,
-                      "fileID":  4774930,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4774/930/guardvillagers-1.19.2-1.5.8.jar",
+                      "fileID":  5116175,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5116/175/guardvillagers-1.19.2-1.5.9.jar",
                       "required":  true
                   },
                   {
@@ -952,20 +958,20 @@
                   },
                   {
                       "projectID":  561470,
-                      "fileID":  4864938,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4864/938/ars_elemental-1.19.2-0.5.9.3.2.jar",
+                      "fileID":  5048691,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5048/691/ars_elemental-1.19.2-0.5.9.4.jar",
                       "required":  true
                   },
                   {
                       "projectID":  619320,
-                      "fileID":  4993654,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4993/654/sophisticatedstorage-1.19.2-0.8.56.681.jar",
+                      "fileID":  5104308,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5104/308/sophisticatedstorage-1.19.2-0.9.5.723.jar",
                       "required":  true
                   },
                   {
                       "projectID":  401955,
-                      "fileID":  4982436,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4982/436/ars_nouveau-1.19.2-3.22.2.jar",
+                      "fileID":  5048131,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5048/131/ars_nouveau-1.19.2-3.22.3.jar",
                       "required":  true
                   },
                   {
@@ -1072,8 +1078,8 @@
                   },
                   {
                       "projectID":  303657,
-                      "fileID":  4937343,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4937/343/Kiwi-1.19.1-forge-8.3.5.jar",
+                      "fileID":  5063293,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5063/293/Kiwi-1.19.2-forge-8.3.6.jar",
                       "required":  true
                   },
                   {
@@ -1096,8 +1102,8 @@
                   },
                   {
                       "projectID":  289412,
-                      "fileID":  4911648,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4911/648/ftb-quests-forge-1902.5.7-build.326.jar",
+                      "fileID":  5060506,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5060/506/ftb-quests-forge-1902.5.8-build.345.jar",
                       "required":  true
                   },
                   {
@@ -1132,8 +1138,8 @@
                   },
                   {
                       "projectID":  398521,
-                      "fileID":  4679318,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4679/318/FarmersDelight-1.19.2-1.2.3.jar",
+                      "fileID":  5051241,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5051/241/FarmersDelight-1.19.2-1.2.4.jar",
                       "required":  true
                   },
                   {
@@ -1156,8 +1162,8 @@
                   },
                   {
                       "projectID":  347706,
-                      "fileID":  4514999,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4514/999/rftoolsbuilder-1.19-5.2.8.jar",
+                      "fileID":  5049041,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5049/41/rftoolsbuilder-1.19-5.2.9.jar",
                       "required":  true
                   },
                   {
@@ -1168,14 +1174,14 @@
                   },
                   {
                       "projectID":  238086,
-                      "fileID":  4931520,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4931/520/kubejs-forge-1902.6.2-build.45.jar",
+                      "fileID":  5120839,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5120/839/kubejs-forge-1902.6.2-build.63.jar",
                       "required":  true
                   },
                   {
                       "projectID":  412082,
-                      "fileID":  4989065,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4989/65/supplementaries-1.19.2-2.4.15.jar",
+                      "fileID":  5116486,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5116/486/supplementaries-1.19.2-2.4.20.jar",
                       "required":  true
                   },
                   {
@@ -1210,8 +1216,8 @@
                   },
                   {
                       "projectID":  628539,
-                      "fileID":  5004036,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/5004/36/everycomp-1.19.2-2.5.16.jar",
+                      "fileID":  5119261,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5119/261/everycomp-1.19.2-2.5.18.jar",
                       "required":  true
                   },
                   {
@@ -1228,8 +1234,8 @@
                   },
                   {
                       "projectID":  301034,
-                      "fileID":  4720116,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4720/116/entangled-1.3.16-forge-mc1.19.2.jar",
+                      "fileID":  5103213,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5103/213/entangled-1.3.17-forge-mc1.19.2.jar",
                       "required":  true
                   },
                   {
@@ -1264,8 +1270,8 @@
                   },
                   {
                       "projectID":  914685,
-                      "fileID":  4992638,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4992/638/aecapfix-0.7.jar",
+                      "fileID":  5017518,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5017/518/aecapfix-0.8.jar",
                       "required":  true
                   },
                   {
@@ -1300,8 +1306,8 @@
                   },
                   {
                       "projectID":  361276,
-                      "fileID":  4666932,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4666/932/lootr-1.19-0.4.24.64.jar",
+                      "fileID":  5082102,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5082/102/lootr-1.19-0.4.25.67.jar",
                       "required":  true
                   },
                   {
@@ -1312,8 +1318,8 @@
                   },
                   {
                       "projectID":  266515,
-                      "fileID":  4990601,
-                      "downloadUrl":  "https://edge.forgecdn.net/files/4990/601/industrial-foregoing-1.19.2-3.3.2.3-7.jar",
+                      "fileID":  5047821,
+                      "downloadUrl":  "https://edge.forgecdn.net/files/5047/821/industrial-foregoing-1.19.2-3.3.2.3-8.jar",
                       "required":  true
                   },
                   {

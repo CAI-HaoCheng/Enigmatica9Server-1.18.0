@@ -306,6 +306,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-02-11 17:43:15 +0800",
+      "cooked_mutton": "2024-02-25 18:06:32 +0800",
       "cooked_beef": "2024-02-13 20:14:48 +0800",
       "baked_potato": "2024-02-15 21:34:20 +0800",
       "apple": "2024-02-09 22:18:03 +0800",
@@ -440,6 +441,12 @@
   "immersiveengineering:main/villager": {
     "criteria": {
       "meet_gunsmith": "2024-02-21 22:48:40 +0800"
+    },
+    "done": true
+  },
+  "ars_elemental:lesser_air_focus": {
+    "criteria": {
+      "has_lesser_air_focus": "2024-02-25 17:49:43 +0800"
     },
     "done": true
   },
@@ -1262,15 +1269,15 @@
     },
     "done": true
   },
-  "apotheosis:affix/socket": {
-    "criteria": {
-      "socket": "2024-02-24 23:46:04 +0800"
-    },
-    "done": true
-  },
   "ars_nouveau:wilden_tribute": {
     "criteria": {
       "has_wilden_tribute": "2024-02-24 22:19:14 +0800"
+    },
+    "done": true
+  },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2024-02-24 23:46:04 +0800"
     },
     "done": true
   },
@@ -1397,6 +1404,12 @@
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2024-02-10 22:19:29 +0800"
+    },
+    "done": true
+  },
+  "ars_elemental:lesser_earth_focus": {
+    "criteria": {
+      "has_lesser_earth_focus": "2024-02-25 17:47:57 +0800"
     },
     "done": true
   },
@@ -1747,6 +1760,18 @@
   "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-02-09 22:15:08 +0800"
+    },
+    "done": true
+  },
+  "ars_nouveau:shapers_focus": {
+    "criteria": {
+      "has_shapers_focus": "2024-02-25 17:53:32 +0800"
+    },
+    "done": true
+  },
+  "ars_elemental:lesser_fire_focus": {
+    "criteria": {
+      "has_lesser_fire_focus": "2024-02-25 17:52:02 +0800"
     },
     "done": true
   },
