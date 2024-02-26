@@ -3,7 +3,7 @@
     "activity": true
   },
   "differential": {
-    "chainLength": 3,
+    "chainLength": 5,
     "lastBackup": 1708790049206,
     "hashList": {
       "hashes": {

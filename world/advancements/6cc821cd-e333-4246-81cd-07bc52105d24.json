@@ -1226,6 +1226,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-02-26 21:59:32 +0800"
+    },
+    "done": true
+  },
   "pneumaticcraft:assembly_controller": {
     "criteria": {
       "0": "2024-02-18 22:07:42 +0800"
@@ -2006,6 +2012,12 @@
   "pneumaticcraft:lpg_bucket": {
     "criteria": {
       "0": "2024-02-14 00:46:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-02-26 21:59:32 +0800"
     },
     "done": true
   },
